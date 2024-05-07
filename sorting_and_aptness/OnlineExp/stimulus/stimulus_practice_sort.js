@@ -1,0 +1,53 @@
+practice_trial_settings = [
+	{
+		TrialType: "Practice",
+		SetType: "P",
+		FinStimID: "P1",
+		NID: "E06",
+		Topic: "幸福",
+		Vehicle: "黄金",
+		NumFeatures: "3",
+		F1: "大切だ",
+		F2: "価値がある",
+		F3: "輝かしい",
+		TargetDirTopic: "stimulus/images/practice/e06_T.png",
+		TargetDirVehicle: "stimulus/images/practice/e06_V.png",
+		TargetDirF1: "stimulus/images/practice/e06_F1.png",
+		TargetDirF2: "stimulus/images/practice/e06_F2.png",
+		TargetDirF3: "stimulus/images/practice/e06_F3.png"
+	},
+	{
+		TrialType: "Practice",
+		SetType: "P",
+		FinStimID: "P2",
+		NID: "E13",
+		Topic: "弾丸",
+		Vehicle: "ロケット",
+		NumFeatures: "1",
+		F1: "速い",
+		F2: "",
+		F3: "",
+		TargetDirTopic: "stimulus/images/practice/e13_T.png",
+		TargetDirVehicle: "stimulus/images/practice/e13_V.png",
+		TargetDirF1: "stimulus/images/practice/e13_F1.png",
+		TargetDirF2: "",
+		TargetDirF3: ""
+	},
+	{
+		TrialType: "Practice",
+		SetType: "P",
+		FinStimID: "P3",
+		NID: "E48",
+		Topic: "結婚",
+		Vehicle: "冷蔵庫",
+		NumFeatures: "2",
+		F1: "物が詰まる",
+		F2: "冷やす",
+		F3: "",
+		TargetDirTopic: "stimulus/images/practice/e48_T.png",
+		TargetDirVehicle: "stimulus/images/practice/e48_V.png",
+		TargetDirF1: "stimulus/images/practice/e48_F1.png",
+		TargetDirF2: "stimulus/images/practice/e48_F2.png",
+		TargetDirF3: ""
+	}
+]
